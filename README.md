@@ -20,8 +20,8 @@ With 15 years in the field, I've worked extensively across a wide range of techn
  * DevOps & Tools: Docker, Kubernetes, Jenkins, Git, Maven, Gradle, IntelliJ IDEA, Jira, SonarQube
  * Methodologies: Agile (Scrum, Kanban), Test-Driven Development (TDD), Clean Code Principles
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,react,docker,aws,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,docker,git,azure,hibernate,idea,jenkins,kafka,kubernetes,maven,mongodb,mysql,openshift,postgres,postman,redis,regex,spring,vscode)](https://skillicons.dev)
 
 ## My GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoazv&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoazv&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
